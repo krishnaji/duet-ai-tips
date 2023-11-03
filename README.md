@@ -11,4 +11,3 @@ Table of Contents
     ├── <a href="working-with-recitation-checker.md">Working with recitation checker </a>
 </pre>
 
-![](media/manual-trigger.gif)
